@@ -1,6 +1,6 @@
 # Assignment-08 🚀
 
-![Project Status](https://img.shields.io/badge/Status-Active-success) ![License](https://img.shields.io/badge/License-MIT-blue) ![Java Version](https://img.shields.io/badge/Java-17-orange)
+![Project Status](https://img.shields.io/badge/Status-Active-success) ![Java Version](https://img.shields.io/badge/Java-17-orange)
 
 Welcome to **Assignment-08**! This repository contains the implementation for the assignment that demonstrates key Java concepts in a real-world project.
 
